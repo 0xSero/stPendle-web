@@ -25,7 +25,7 @@ export default function HomePage() {
               {env.appName}
             </span>
             <h1 className="text-2xl font-semibold tracking-tight">
-              Institutional Grade Liquid Staking
+              Streaming Yield
             </h1>
           </div>
           <ConnectButton />
